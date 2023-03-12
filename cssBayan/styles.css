@@ -64,13 +64,11 @@ body {
     transform: rotate(45deg);
 }
 
-
 .acor-container input:hover + .img1 {
     height: 31.25rem;
     transition: height 0.25s ease-in;
 
 }
-
 
 .acor-container input:hover + label {
     height: auto;
