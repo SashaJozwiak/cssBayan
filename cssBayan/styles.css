@@ -19,28 +19,7 @@ body {
     margin: 1.25rem 0;
     margin: 0 auto;
     border-radius: .625rem;
-    
 }
-
-/* .acor-container .acor-body {
-    width: calc(100% - 50%);
-    margin: 0 auto;
-    height: 0;
-    color: rgba(0, 0, 0, 0);
-    background-color: #BFE2FF;
-    line-height: 1.125rem;
-    padding: 0 1.875rem;
-    box-sizing: border-box;
-    transition: color 0.5s, padding 0.5s;
-    overflow: hidden;
-    font-family: Verdana, sans-serif; 
-    font-size: 1rem;
-    box-shadow: 0 .25rem .5rem rgba(0,0,0,0.2), 0 .625rem 1rem rgba(0,0,0,0.2);
-    border-radius: 0 0 1.25rem 1.25rem;
-}
-.acor-container .acor-body p {
-    margin: 0 0 .625rem;
-} */
 
 .acor-container label {
     cursor: pointer;
@@ -186,5 +165,4 @@ input:checked + label .img {
         transition: height 0.25s ease-in;
         
     }
-
 }
